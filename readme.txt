@@ -6,7 +6,9 @@ using webpack , in dist2Webpack and
 parcel , in dist.     
 
 Serves data from   ,  https://reqres.in/api/users 
- -
+ -     
+
+ And thats what it does 
 
 --- To build ,
 #1------------------------------------ ----------------
